@@ -67,6 +67,7 @@ button {
 	cursor: pointer;
 	font-size: 1rem;
 	padding: 0.6rem 1.8rem;
+	transition: .25s all ease-in-out;
 }
 
 .button--navigation__login {
@@ -141,18 +142,17 @@ button {
 	width: auto;
 	box-sizing: border-box;
 	max-width: fit-content;
-	transition: .25s all ease-in-out;
 }
 
 /* Hovers */
 
-.learn__more__btn:hover, .find__workspace__button:hover {
+button:hover {
 	background-color: hsla(161, 80%, 39%, 0.861);
-	transform: scale(1.125);
+	transform: scale(1.075);
 }
 
 .button--navigation__login:hover{
-	transform: scale(1.125);
+	transform: scale(1.075);
 }
 
 .about__content__r2 {
