@@ -1,5 +1,7 @@
 # Learn Git! (Please Look at [THIS](/design/design_rules.md))
 
+Hi Man!
+
 This project empowers you to streamline collaboration and version control for your project. It serves as a comprehensive guide, specifically designed for a simple page site, that delves into the fundamentals of Git and its applications in collaborative workflows.
 
 ## Key Features
@@ -19,3 +21,4 @@ This project empowers you to streamline collaboration and version control for yo
 
 - [ifumikuah](https://github.com/ifumikuah)
 - [FernJBatista](https://github.com/FernJBatista)
+- [StepDaddyIssuess](https://github.com/StepDaddyIssuess)
