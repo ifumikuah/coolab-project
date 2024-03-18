@@ -141,6 +141,18 @@ button {
 	width: auto;
 	box-sizing: border-box;
 	max-width: fit-content;
+	transition: .25s all ease-in-out;
+}
+
+/* Hovers */
+
+.learn__more__btn:hover, .find__workspace__button:hover {
+	background-color: hsla(161, 80%, 39%, 0.861);
+	transform: scale(1.125);
+}
+
+.button--navigation__login:hover{
+	transform: scale(1.125);
 }
 
 .about__content__r2 {
@@ -158,6 +170,12 @@ button {
 .social__media__img {
 	height: 2.2rem;
 	aspect-ratio: 1/1;
+	transition: all .25s ease-in-out;
+}
+
+.social__media__img:hover{
+	cursor: pointer;
+	transform: scale(1.5);
 }
 
 @media screen and (max-width: 600px) {
