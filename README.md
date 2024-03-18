@@ -18,3 +18,4 @@ This project empowers you to streamline collaboration and version control for yo
 ## Contributors
 
 - [ifumikuah](https://github.com/ifumikuah)
+- [FernJBatista](https://github.com/FernJBatista)
