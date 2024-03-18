@@ -123,8 +123,6 @@ button {
     height: 100%;
     gap: 2rem;
     justify-content: space-between;
-    height: 100%;
-    align-items: stretch;
 }
 
 .about__content__r1 {
